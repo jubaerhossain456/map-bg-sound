@@ -1,0 +1,9 @@
+*{
+	margin: 0;
+	padding: 0;
+	color: #3E3D32;
+}
+section{
+	max-width: 1200px;
+	margin: 0 auto;
+}
